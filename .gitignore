@@ -1,0 +1,19 @@
+# virtual envs
+.venv/
+venv/
+env/
+
+# Streamlit secrets (DO NOT COMMIT)
+.streamlit/secrets.toml
+
+# Python junk
+__pycache__/
+*.pyc
+
+# Editors/OS
+.vscode/
+.idea/
+.DS_Store
+
+# Local helpers
+hash_gen.py
