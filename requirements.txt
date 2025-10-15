@@ -1,5 +1,9 @@
 streamlit
 pandas
 requests
-openpyxl ; extra == "excel"  # optional but recommended
-xlsxwriter                      # optional fallback engine
+openpyxl
+xlsxwriter
+streamlit-folium
+folium
+streamlit-authenticator==0.3.2
+bcrypt==4.*
